@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Reinaldo Siqueira, future master in economics
+- 👋 Hi, I’m Reinaldo Siqueira, master in economics
 - 👀 I’m interested in Economics and data science
 - 🌱 I’m currently learning R and Stata
 - 📫 How to reach me reisiqueira@outlook.com
